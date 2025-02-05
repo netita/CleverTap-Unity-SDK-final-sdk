@@ -73,15 +73,6 @@ Looks like : "Location: India, Today: 31.1°C, Tomorrow: 30.2°C"
 ![alt text](result.png)
 
 
-
-## Weather App
-
-1. Attach WeatherManager.cs to a GameObject.
-
-2. Assign CustomTemplate from the Prefabs folder.
-
-3. Run the game or Build & Run to test it directly to your Android device.
-
 ## API References
 
 - Open-Meteo API [here](https://open-meteo.com/en/docs#api-documentation).
