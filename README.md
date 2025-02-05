@@ -38,7 +38,7 @@ Toast Message SDK
 
 ## Installation
 
-1. Clone or download this repository.
+1. Download this repository.
 
 2. Unzip MyProject.zip file
 
