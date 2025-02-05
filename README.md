@@ -58,8 +58,7 @@ Toast Message SDK
    
 8. Run the game.
    
-9. Build and run the game directly with Run Divice plugged (Android phone) to PC. **Go to File** > **Build Settings** > *Build and Run**.
-   
+  
 
 
 ## Usage
@@ -91,7 +90,7 @@ Looks like : "Location: India, Today: 31.1°C, Tomorrow: 30.2°C"
 
 ## Android Instructions
 
-Android is in Builds folder or into your Unity Project  **File** > **Build Settings** > **Build and Run**. Make sure you have changed platform for Android and after that Build & Run which will load the apk onto your device. This assumes that your phone is already in developer mode and has been recognized by your computer as such. For more inforamtion and setup look here: [here](http://docs.unity3d.com/Manual/android-sdksetup.html)
+ Build & Run to test directly with Run Divice plugged (Android phone) in to PC. **Go to File** > **Build Settings** > *Build and Run**. For more inforamtion and setup look here: [here](http://docs.unity3d.com/Manual/android-sdksetup.html)
 
 ## Known Issues
 
