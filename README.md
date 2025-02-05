@@ -41,10 +41,8 @@ Toast Message SDK
 1. Download this repository.
 
 2. Unzip MyProject.zip file
-
-3. Open the project in Unity Version 2022.3.33f1. If you want to make Android builds select while installation ![alt text](image.png)
-
-  Ensure the required dependencies as TextMeshPro are installed.
+   
+4. Ensure the required dependencies as TextMeshPro are installed.
   
   Install TextMeshPro both packages by navigating to:
   - Window > TextMeshPro > Import TMP Essential Resources and.
@@ -54,7 +52,9 @@ Toast Message SDK
    
 6.  Import the `Weather App.unitypackage` into your Unity Project. **Go to Assets** > **Import Package** > **Custom Package**. 
 
-7. Import the `Toast.unitypackage` into your Unity Project. **Go to Assets** > **Import Package** > **Custom Package**. 
+7. Import the `Toast.unitypackage` into your Unity Project. **Go to Assets** > **Import Package** > **Custom Package**.
+   
+9. Open the project in Unity Version 2022.3.33f1. If you want to make Android builds select while installation ![alt text](image.png)
 
 ## Usage
 
